@@ -5,13 +5,13 @@ import { getFirestore } from "firebase/firestore";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDaRxuT_Zrgle6TUgxOkRAh33MMCOMvYdI",
-  authDomain: "linkedin-clone-8610b.firebaseapp.com",
-  projectId: "linkedin-clone-8610b",
-  storageBucket: "linkedin-clone-8610b.appspot.com",
-  messagingSenderId: "63422855253",
-  appId: "1:63422855253:web:07887f001eae4a1b31fcdc",
-  measurementId: "G-06CBLDKWHK"
+  apiKey: "AIzaSyDQxq0WsdwhhM5pIjze9HVi3JlO74G6_7w",
+  authDomain: "linkedinclone-7aac1.firebaseapp.com",
+  projectId: "linkedinclone-7aac1",
+  storageBucket: "linkedinclone-7aac1.appspot.com",
+  messagingSenderId: "59344362010",
+  appId: "1:59344362010:web:59ef08399cf32f12660fa3",
+  measurementId: "G-HXN8ML0XV4"
 };
 
 // Initialize Firebase
